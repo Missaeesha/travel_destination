@@ -1,0 +1,15 @@
+:root{
+
+    --teal-dark-color: rgb(21, 63, 63);
+}
+
+
+.bg-teal {
+    background-color: var(--teal-dark-color);
+    color: #fff;
+}
+
+.carousel-caption {
+    bottom: 85vh;
+    
+}
