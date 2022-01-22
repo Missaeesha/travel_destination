@@ -11,5 +11,10 @@
 
 .carousel-caption {
     bottom: 85vh;
+    text-align: right;
     
+}
+
+.text-teal{
+    color: var(--teal-dark-color);
 }
